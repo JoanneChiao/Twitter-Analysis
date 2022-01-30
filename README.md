@@ -15,3 +15,8 @@ Vader Sentiment Analysis - Calculate scores and sentiments (with histograms and 
 Hashtags_Wordclouds:
 
 Visuals based on the 'Hashtags' Twitter users posted in different region
+
+1/29 Update:
+
+EDA on updated data (Add new region - India)
+Improve visuals (Overlap sentiment histograms, count plots comparison by regions)
